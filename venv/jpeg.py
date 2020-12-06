@@ -171,3 +171,6 @@ for i in file_dir:
                 n += 1
                 print("复制图片" + i + str(n) + path[0])
 
+
+print(i)
+
